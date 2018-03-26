@@ -1,0 +1,3 @@
+[submodule "hello-world.wiki"]
+	path = wiki
+	url = git@github.com:Yueur/hello-world.wiki.git
